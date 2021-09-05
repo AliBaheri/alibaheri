@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-#description: <a href="#">West Virginia University</a>. <a href="#">Mechanical and Aerospace Department</a>. 
+#description: Assistant Professpr of Research | Director of SAIL, West Virginia University
 
 #Contacts. Moto. Etc.
 
