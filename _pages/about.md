@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am an assistant professor of research in the [Department of Mechanical and Aerospace Engineering](https://mae.statler.wvu.edu/) at [West Virginia University](https://www.wvu.edu/) where I direct the **Safe AI Lab** (**SAIL**). At **SAIL**, we conduct research at the intersection of autonomy, controls, and machine learning.
-Our vision is to make progress toward **safe**, **certified**, and **efficient** autonomy with the application to intelligent systems on the ground or in the air. To achieve that goal, we leverage tools from artificial intelligence, data-driven optimization techniques, and control theory. Our work has been generously funded by NSF, FAA, and NASA.
+Our vision is to make progress toward **safe**, **certified**, and **efficient** autonomy with the application to intelligent systems on the ground or in the air. To achieve that goal, we leverage tools from artificial intelligence, data-driven optimization techniques, and control theory. Our work has been generously funded by **NSF**, **FAA**, and **NASA**.
 
 Prior to joining WVU, I was a postdoctoral research fellow at the [University of Michigan-Ann Arbor](https://umich.edu/). I received my Ph.D. at the [University of North Carolina at Charlotte](https://www.charlotte.edu/) in 2018.
 
