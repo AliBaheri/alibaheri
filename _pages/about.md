@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Assistant Professpr of Research | Director of SAIL, West Virginia University
+description: Assistant Professpr of Research | Director of Safe AI Lab, West Virginia University
 
 #Contacts. Moto. Etc.
 
