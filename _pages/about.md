@@ -24,5 +24,5 @@ Our vision is to make progress toward **safe**, **certified**, and **efficient**
 
 Prior to joining WVU, I was a postdoctoral research fellow at the [University of Michigan-Ann Arbor](https://umich.edu/). I received my Ph.D. at the [University of North Carolina at Charlotte](https://www.charlotte.edu/) in 2018.
 
-**Note**: I will be joining the Department of Mechanical Engineering at Rochester Institute of Technology(https://www.rit.edu/engineering/department-mechanical-engineering) as an Assistant Professor in Spring 2023! Before that, I will join [Stanford Intelligent Systems Laboratory](https://web.stanford.edu/group/sisl/cgi-bin/wordpress/) as a visiting scholar.
+**Note**: I will be joining the [Department of Mechanical Engineering at Rochester Institute of Technology](https://www.rit.edu/engineering/department-mechanical-engineering) as an Assistant Professor in Spring 2023! Before that, I will join [Stanford Intelligent Systems Laboratory](https://web.stanford.edu/group/sisl/cgi-bin/wordpress/) as a visiting scholar.
 
