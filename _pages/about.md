@@ -24,5 +24,5 @@ Our vision is to make progress toward **safe**, **certified**, and **efficient**
 
 Prior to joining WVU, I was a postdoctoral research fellow at the [University of Michigan-Ann Arbor](https://umich.edu/). I received my Ph.D. at the [University of North Carolina at Charlotte](https://www.charlotte.edu/) in 2018.
 
-**I will be joining the [Department of Mechanical Engineering](https://www.rit.edu/engineering/department-mechanical-engineering) at [Rochester Institute of Technology](https://www.rit.edu/) as an Assistant Professor in Spring 2023! If you are interested in joining the Safe AI Lab, send me an email. Before that, I will join the [Stanford Intelligent Systems Laboratory (SISL)](https://web.stanford.edu/group/sisl/cgi-bin/wordpress/) as a visiting scholar.**
+**I will be joining the [Department of Mechanical Engineering](https://www.rit.edu/engineering/department-mechanical-engineering) at [Rochester Institute of Technology](https://www.rit.edu/) as an Assistant Professor in Spring 2023! If you are interested in joining the Safe AI Lab, send me an email. Before that, I will join the [Stanford Intelligent Systems Laboratory (SISL)](http://sisl.stanford.edu/) as a visiting scholar.**
 
