@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-I gave a talk at the University of North Texas entitled "Safe Decision Making in Evolving Environments for Safety-Critical Autonomous Systems".
+**[talk]** I gave a talk at the University of North Texas entitled "Safe Decision Making in Evolving Environments for Safety-Critical Autonomous Systems".
