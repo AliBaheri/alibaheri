@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-**[talk]** I gave a talk at the ICRA Workshop on the Verification of Autonomous Systems (VAS).
+**[talk]** I gave a talk at the [ICRA 2022 Workshop on the Verification of Autonomous Systems (VAS)](https://robotistry.org/vaswg/ICRA22_Workshop/).
