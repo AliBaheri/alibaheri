@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Assistant Professpr of Research | Director of Safe AI Lab, West Virginia University
+description: Assistant Professor | Director of Safe AI Lab, Rochester Institute of Technology
 
 #Contacts. Moto. Etc.
 
