@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-**[talk]** I gave a talk at the AAAI2023 New Faculty Highlights Program entitled "On the Role of Fidelity in the Safety Evaluation of Learning-Based Autonomous Systems".
+**[talk]** I gave a talk at the [AAAI 2023 New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/) entitled "On the Role of Fidelity in the Safety Evaluation of Learning-Based Autonomous Systems".
