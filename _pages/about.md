@@ -7,7 +7,7 @@ description: Assistant Professor | Rochester Institute of Technology
 
 profile:
   align: right
-  image: my-photo.jpg
+  image: my-photo.jpeg
   #address: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
